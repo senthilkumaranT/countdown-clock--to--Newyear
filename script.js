@@ -1,7 +1,7 @@
 const da=document.querySelector("#days");
 const ho=document.querySelector("#hours");
 const mi=document.querySelector("#minutes");
-const se=document.querySelector("seconds");
+const se=document.querySelector("#seconds");
 
 
 function updatetime(){
